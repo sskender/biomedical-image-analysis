@@ -6,7 +6,7 @@ Biomedical Image Analysis FER
 
 The course provide students with an opportunity to gain knowledge in theory and applications of digital image analysis in biomedicine. An overview of biomedical imaging modalities. Image analysis applications for computer-aided diagnosis and image-based interventions. X-ray, computed tomography, magnetic resonance imaging, PET, SPECT, nuclear medicine, ultrasound, OCT. Image enhancement methods. Image registration methods. Surface and volume visualization in biomedicine.
 
-### Learning Outcomes:
+### Learning Outcomes
 
 - define and describe concepts of biomedical image analysis
 - list examples of biomedical image analysis applications
